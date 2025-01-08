@@ -1,2 +1,4 @@
 # jmm2025pep
-Temporary files for the JMM PEP
+First sample repo for PEP at JMM2025.
+
+This work is **based** upon <<https://g4m.code4math.org>>.
